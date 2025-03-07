@@ -1,4 +1,4 @@
-# FCOR-599 Project: **LASTNAME FIRSTNAME**  
+# FCOR-599 Project: **SOMUAH BEATRICE**  
 **Spatial Data Analysis & Remote Sensing for Forest Carbon Monitoring**
 
 
