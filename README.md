@@ -5,7 +5,7 @@ Now that you're here...
 Please follow the steps below: 
 
 1. Clone the GitHub Repo to your local computer using method of choice (GitHub Desktop, command line etc.) 
-2. Create a new Branch 
+2. Create a new Branch called "LASTNAME_FIRSTNAME_branch"
 3. Publish Branch 
 4. Set up a file organization structure for a new project with at least 3 folders 📁
 5. Delete this markdown file
