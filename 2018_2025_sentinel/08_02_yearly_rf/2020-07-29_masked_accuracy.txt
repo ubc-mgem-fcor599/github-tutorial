@@ -1,0 +1,14 @@
+File: 2020-07-29_masked
+        Confusion Matrix:
+        [[  57   36    0   21    0    0]
+ [  54  763    0   16    0    2]
+ [   0    2  718  224   22    0]
+ [   4   30  117 4418   48    4]
+ [   0    0   65   33  239    6]
+ [   4    4    0   15    0 2138]]
+
+        Overall Accuracy: 0.922
+        F1 Score (weighted): 0.921
+        Producer Accuracy: {'Broadleaf_Forest': np.float64(0.5), 'Conifer_Forest': np.float64(0.914), 'Crop_Land': np.float64(0.743), 'Developed': np.float64(0.956), 'Meadow': np.float64(0.697), 'Water': np.float64(0.989)}
+        User Accuracy: {'Broadleaf_Forest': np.float64(0.479), 'Conifer_Forest': np.float64(0.914), 'Crop_Land': np.float64(0.798), 'Developed': np.float64(0.935), 'Meadow': np.float64(0.773), 'Water': np.float64(0.994)}
+        
