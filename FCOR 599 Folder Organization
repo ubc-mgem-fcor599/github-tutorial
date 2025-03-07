@@ -1,0 +1,15 @@
+FCOR-599/                         # Main Project Directory
+├── data/                         # Folder for all Data-related files
+│   ├── raw/                      # Raw unprocessed data (e.g., original datasets)
+│   ├── processed/                # Cleaned or transformed data
+│   └── final/                    # Final datasets used for analysis or reports
+├── scripts/                      # All scripts for processing, analysis, etc.
+├── plots/                        # Visualizations and output plots
+├── reports/                      # Reports, documentation, and project summaries
+├── docs/                         # Project Documentation (e.g., methodology, objectives)
+├── results/                      # Model or processed results for further analysis
+├── .gitignore                    # Git ignore file to exclude unwanted files
+├── README_LASTNAME_FIRSTNAME.md   # Project description (e.g., abstract, objectives, etc.)
+├── requirements.txt              # Dependencies for Python (if applicable)
+└── LICENSE                       # Optional: License for open-source sharing
+
