@@ -1,14 +1,38 @@
-## github-tutorial
-Hello! This is the testing repo for 599 where students will submit their test branch 🚀
+FCOR 599 Project - Ka Hong Lee
 
-Now that you're here...
-Please follow the steps below: 
 
-1. Clone the GitHub Repo to your local computer using method of choice (GitHub Desktop, command line etc.) 
-2. Create a new Branch called "LASTNAME_FIRSTNAME_branch"
-3. Publish your new Branch and Fork repo - say "yes I want to make this a fork" since you won't have write access to the repo
-5. Edit the README.md file and write a brief description that you could use for your 599 project - If you already have one.. Great! Make it better in some way and submit that (add a photo? add in your contact info?)
-6. Commit changes
-7. Push Changes to remote origin
-8. Take a screenshot of your GitHub forked repo with your README and **submit on Canvas to recieve a participation grade**
+
+Topic: Fuel Type Mapping of Mudge Island Using Sentinel-2 Multispectral Imagery
+
+
+
+
+
+Essential elements for a disaster response map for the remote community in Mudge Island:
+
+
+
+A Wildfire Web Map
+
+
+1. Freshwater storage locations
+2. Remote access points (e.g., boat \& helicopter)
+3. equipment loading / unloading area (e.g., MICS hall, AED locations, etc.)
+4. Major road network for potential evacuation routes, equipment collection, etc.
+5. Geographic feature names around and on the Mudge Island (e.g., Ling Cod Lane Park, etc.)
+6. MICS-defined districts 
+7. property / parcel boundaries and numbers
+8. Topography: Elevation, contour lines
+
+
+
+Background information for Mudge Island:
+
+Mudge Island is a tiny island measuring just 0.8 by 4 kilometers. Situated between Gabriola Island and Vancouver Island, it has a population of around 150 people. It is also a largely forested island, home to major tree species such as red cedar and arbutus, as well as Douglas fir 
+
+
+
+Contact Information:
+
+Email: kelvin55@student.ubc.ca
 
