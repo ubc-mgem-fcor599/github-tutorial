@@ -1,8 +1,6 @@
-![AOS Flight Path](image.png)
-
 OVERVIEW
 This repo is for Nico Trick's Master of Geomatics for Environmental Management (UBC) Capstone Project. 
-Here I explore how remote sensing can be used to monitor pest infestation in the Skeena Region of British Columbia
+Here I explore how remote sensing can be used to monitor pest infestation in the Skeena Region of British Columbia to learn more about the areas the current Aerial Overview Survey program misses.
 
 DATA RESOURCES
 This project uses publicly available data from the Government of British Columbia. 
@@ -16,3 +14,5 @@ COLLABORATORS
 Celia Boone, Ph.D., P.Ag || Research Forest Entomologist, Skeena Region || BC Ministry of Forests
 Allan Carroll, Ph.D. || Professor; Director, Forest Sciences Undergraduate Program || Department of Forest and Conservation Sciences; University of British Columbia
 Kate Mitchell, Ph.D. || Provincial Entomologist || BC Ministry of Forests
+
+![AOS Flight Path](image.png)
