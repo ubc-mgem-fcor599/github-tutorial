@@ -12,3 +12,5 @@ Please follow the steps below:
 7. Push Changes to remote origin
 8. Take a screenshot of your GitHub forked repo with your README and **submit on Canvas to recieve a participation grade**
 
+### FCOR 599
+Edits to the README - Nicole Graham
