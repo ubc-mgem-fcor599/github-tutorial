@@ -24,4 +24,5 @@ Please follow the steps below:
 **Sarah's 599 Project Description**
 
 * **still lost in the sauce**
-* **looking at wildfires in Saskatchewan and Manitoba, probably looking at severity possibly also recovery. Not sure how that will be accomplished... currently a dilemma in my life... will fix this description later on....** 
+* **looking at wildfires in Saskatchewan and Manitoba, probably looking at severity possibly also recovery. Not sure how that will be accomplished... currently a dilemma in my life... will fix this description later on....**
+* Project contact: skopitz@student.ubc.ca
