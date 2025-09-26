@@ -15,4 +15,4 @@ Celia Boone, Ph.D., P.Ag || Research Forest Entomologist, Skeena Region || BC Mi
 Allan Carroll, Ph.D. || Professor; Director, Forest Sciences Undergraduate Program || Department of Forest and Conservation Sciences; University of British Columbia
 Kate Mitchell, Ph.D. || Provincial Entomologist || BC Ministry of Forests
 
-![AOS Flight Path](image.png)
+![alt text](image.png)
