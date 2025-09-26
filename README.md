@@ -12,3 +12,15 @@ Please follow the steps below:
 7. Push Changes to remote origin
 8. Take a screenshot of your GitHub forked repo with your README and **submit on Canvas to recieve a participation grade**
 
+
+599 project: Thinning perscriptions for Wetzin'kwa community forest
+
+Wetzin'kwa Community Forest (WCF) is a 30,000ha forest tenure co-managed by the Town of Smithers, the Town of Telkwa and the Wet’suwet’en First Nation. Established in 2007, its management is guided by five values: Cultural, Economic, Ecological, Recreational, and Community. 
+
+This project will use LiDAR derived stand models in combination with a multi-objective decision analysis tool to evaluate thinning prescriptions for lodgepole pine stands in WCF. Specifically, it will explore whether LiDAR-based approaches can help design thinning scenarios that balance the five core values outlined in WCF’s Forest Stewardship Plan.
+
+![]
+](image.png)
+
+Project contact: Andrew Lang Wong
+Email: andrew.lang.wong@gmail.com
