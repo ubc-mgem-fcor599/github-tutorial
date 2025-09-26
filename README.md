@@ -1,14 +1,18 @@
-## github-tutorial
-Hello! This is the testing repo for 599 where students will submit their test branch 🚀
+OVERVIEW
+This repo is for Nico Trick's Master of Geomatics for Environmental Management (UBC) Capstone Project. 
+Here I explore how remote sensing can be used to monitor pest infestation in the Skeena Region of British Columbia to learn more about the areas the current Aerial Overview Survey program misses.
 
-Now that you're here...
-Please follow the steps below: 
+DATA RESOURCES
+This project uses publicly available data from the Government of British Columbia. 
+Pest Infestation Points: https://catalogue.data.gov.bc.ca/dataset/pest-infestation-points
+Aerial Overview Survey Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNmRjNDYwNzMtNDJkYS00Njg1LWI1NzQtYWYwMGE1MTc2MzIyIiwidCI6IjZmZGI1MjAwLTNkMGQtNGE4YS1iMDM2LWQzNjg1ZTM1OWFkYyJ9
 
-1. Clone the GitHub Repo to your local computer using method of choice (GitHub Desktop, command line etc.) 
-2. Create a new Branch called "LASTNAME_FIRSTNAME_branch"
-3. Publish your new Branch and Fork repo - say "yes I want to make this a fork" since you won't have write access to the repo
-5. Edit the README.md file and write a brief description that you could use for your 599 project - If you already have one.. Great! Make it better in some way and submit that (add a photo? add in your contact info?)
-6. Commit changes
-7. Push Changes to remote origin
-8. Take a screenshot of your GitHub forked repo with your README and **submit on Canvas to recieve a participation grade**
+CONTACT
+Nico Trick, MSc. || ntrick8@student.ubc.ca
 
+COLLABORATORS
+Celia Boone, Ph.D., P.Ag || Research Forest Entomologist, Skeena Region || BC Ministry of Forests
+Allan Carroll, Ph.D. || Professor; Director, Forest Sciences Undergraduate Program || Department of Forest and Conservation Sciences; University of British Columbia
+Kate Mitchell, Ph.D. || Provincial Entomologist || BC Ministry of Forests
+
+![alt text](image.png)
