@@ -1,16 +1,58 @@
-## github-tutorial
+This README.md file was generated on 2025-09-26 by Leo Williams.
 
-Hello! This is the testing repo for 599 where students will submit their test branch 🚀
 
-Now that you're here...
-Please follow the steps below:
 
-1. Clone the GitHub Repo to your local computer using method of choice (GitHub Desktop, command line etc.)
-2. Create a new Branch called "LASTNAME\_FIRSTNAME\_branch"
-3. Publish your new Branch and Fork repo - say "yes I want to make this a fork" since you won't have write access to the repo
-4. Edit the README.md file and write a brief description that you could use for your 599 project - If you already have one.. Great! Make it better in some way and submit that (add a photo? add in your contact info?)
-5. Commit changes
-6. Push Changes to remote origin
-7. Take a screenshot of your GitHub forked repo with your README and **submit on Canvas to recieve a participation grade**
-8. **I am making changes!**
-9. 
+GENERAL INFORMATION
+
+
+
+1. Title of Dataset: Mangrove Dynamics across Guinea-Bissau and Impacts on Carbon Stocks. 
+
+
+
+
+
+2\. Author Information
+
+&nbsp;	Name: Leo Williams
+
+&nbsp;	Institution: University of British Colombia
+
+&nbsp;	Email: leo.williams.1122@gmail.com
+
+
+
+
+
+3\. Date of data collection (Approximate range): 2020-10-01 to 2025-10-01
+
+
+
+
+
+4\. Geographic location of data: Guinea-Bissau, West Africa. 
+
+Maximum latitude = xxxxxxxxx; Minimum latitude = xxxxxx;
+
+Minimum longitude (West) = xxxx; Maximum Longitude (East) = xxxxxx;
+
+
+
+
+
+Description of Dataset:
+
+This dataset establishes changes in mangrove extents in Guinea-Bissau between 2020 and 2025 and quantifies the impacts of these changes on carbon storage stocks. 
+
+
+
+LICENSE
+
+
+
+
+
+
+
+SHARING
+
