@@ -13,4 +13,4 @@ Please follow the steps below:
 8. Take a screenshot of your GitHub forked repo with your README and **submit on Canvas to recieve a participation grade**
 
 ### FCOR 599
-Edits to the README - Nicole Graham
+Edits to the README file - Nicole Graham
