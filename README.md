@@ -12,3 +12,5 @@ Please follow the steps below:
 7. Push Changes to remote origin
 8. Take a screenshot of your GitHub forked repo with your README and **submit on Canvas to recieve a participation grade**
 
+Asiya: I will be examining the impacts of proposed development (industrial park and residential) on the Cable Bay ecosystem! Email: asiya121@hotmail.com.
+
