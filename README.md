@@ -10,5 +10,5 @@ Please follow the steps below:
 5. Edit the README.md file and write a brief description that you could use for your 599 project - If you already have one.. Great! Make it better in some way and submit that (add a photo? add in your contact info?)
 6. Commit changes
 7. Push Changes to remote origin
-8. Take a screenshot of your GitHub forked repo with your README and folders (or folder structure description) and **submit on Canvas to recieve a participation grade**
+8. Take a screenshot of your GitHub forked repo with your README and **submit on Canvas to recieve a participation grade**
 
